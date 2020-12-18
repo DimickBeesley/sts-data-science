@@ -1,5 +1,7 @@
 # sts-data-science
 
+Basic data science applied to the game Slay the Spire, in Python and Java.
+
 ## Goals
 
 Don't have any big ones at the moment. I just know I want this to be an opportunity to practice web-scraping, the data-science tools in python, and pairing python with Java to do some powerful things. Maybe I'll make a bot, stat comparisons btw me and the average Ascension 20 player and/or Jorbs himself. I might also make something to help evaluate card and relic pics in game for a mod or something. I'll have a better idea once I've gathered and structured the data I know I'll need for all of those, and more about making some tools that would make things like this much easier later.
